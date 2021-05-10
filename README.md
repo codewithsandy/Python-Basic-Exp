@@ -1,9 +1,9 @@
-# Python Programming
-#This document helps to understand python in detail.And tells you More Information
+# <b>Python Programming</b>
+<h2>This document helps to understand python in detail.And tells you More Information.</h2>
 =======
-#This document helps to understand python in details.
+<h2>This document helps to understand python in details.</h2>
 
-# My Python Examples for everyone 
+<h2>My Python Examples for everyone </h2>
 =======
 
 # My Python  :snake:
@@ -11,7 +11,7 @@
 I do not consider myself as a programmer. I create these little programs as experiments to play with Python, or to solve problems for myself. 
 I would gladly accept pointers from others to improve, simplify, or make the code more efficient. If you would like to make any comments then please feel free to email me:
 
-<b>SANDESH POL.</b>
+<h3><b>SANDESH POL.</b></h3>
 
 :email: sandeshpol123@gmail.com
 <hr>
