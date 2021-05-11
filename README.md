@@ -21,6 +21,5 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 
 - [Python Documentation).pdf](https://github.com/codewithsandy/Python-Basic-Exp/blob/master/Python%20Documentation.pdf) - Chech if you are a learner or beginner programmer. this pdf contains all the basic concepts must know for every pythn programmer.
 
-
 <hr>
 
