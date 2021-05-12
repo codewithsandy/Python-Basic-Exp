@@ -19,8 +19,7 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 # My Best Python Examples for education 
 
 
-- [Basic Python Notes (71 Concepts).pdf](https://github.com/codewithsandy/Python-Basic-Exp/blob/master/Basic%20Python%20Notes%20(71%20Concepts).pdf) - Chech if you are a learner or beginner programmer. this pdf contains all the basic concepts must know for every pythn programmer.
-
+- [Python Documentation).pdf](https://github.com/codewithsandy/Python-Basic-Exp/blob/master/Python%20Documentation.pdf) - Chech if you are a learner or beginner programmer. this pdf contains all the basic concepts must know for every pythn programmer.
 
 <hr>
 
